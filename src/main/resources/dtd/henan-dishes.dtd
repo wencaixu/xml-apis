@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <food>
+        <name>鱼香肉丝</name>
+        <price>18¥</price>
+        <description>经典川菜</description>
+    </food>
+    <food>
+        <name>鲤鱼焙面</name>
+        <price>59¥</price>
+        <description>开封名菜</description>
+    </food>
+</menu>
+
+
+
